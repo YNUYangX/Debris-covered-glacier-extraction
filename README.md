@@ -69,3 +69,6 @@ Run `Accuracy Evaluation.ipynb`, specifying the label path and prediction result
 
 - U-Net: [Ronneberger et al., 2015](https://arxiv.org/abs/1505.04597)
 - CBAM: [Woo et al., 2018](https://arxiv.org/abs/1807.06521)
+- Mapping Debris-Covered Glaciers Using High-Resolution Imagery (GF-2) and Deep Learning Algorithms[Yang et al., 2024](https://doi.org/10.3390/rs16122062)
+- High-Resolution Glacier Inventory of the Karakoram[Yang et al., 2025](https://doi.org/10.12072/ncdc.glacier.db6974.2025)
+- High-resolution glacier mapping reveals inventory biases and terrain controls on debris-covered glaciers in the Karakoram[Yang et al., 2026](https://doi.org/10.5194/egusphere-2026-2836)
