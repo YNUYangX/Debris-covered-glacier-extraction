@@ -4,7 +4,7 @@ A deep learning-based **glacier semantic segmentation** project using **U-Net + 
 
 ## Overview
 
-This project leverages DICE and other multi-source remote sensing data, using a U-Net deep learning model with CBAM attention mechanism to achieve high-precision automatic glacier segmentation. It is suitable for glacier change monitoring, climate change research, and related applications.
+This project leverages multi-source remote sensing data, using a U-Net deep learning model with CBAM attention mechanism to achieve high-precision automatic glacier segmentation. It is suitable for glacier change monitoring, climate change research, and related applications.
 
 ## Model Architecture
 
